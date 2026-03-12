@@ -1,4 +1,4 @@
-// init.c
+// init.h
 #include "init.h"
 
 // Функция для задержки
